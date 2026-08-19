@@ -8,8 +8,7 @@ It provides an interactive dashboard to explore NASA's space biology research da
 
 ## 📸 Preview
 
-| Dashboard Overview | Research Analytics |
-| :---: | :---: |
+
 | ![Dashboard Preview](./src/photos/dashboard-preview.png) | ![Dashboard2 preview](./src/photos/dashboard_2.png) |![Analytics Preview](./src/photos/track.png) |![Team](./src/photos/team.png) |
 
 
