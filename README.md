@@ -3,14 +3,6 @@
 This is the **frontend React app** for the NASA Space Apps Challenge 2025.  
 It provides an interactive dashboard to explore NASA's space biology research data.
 
----
-
-
-## 📸 Preview
-
-
-| ![Dashboard Preview](./src/photos/dashboard-preview.png) | ![Dashboard2 preview](./src/photos/dashboard_2.png) |![Analytics Preview](./src/photos/track.png) |![Team](./src/photos/team.png) |
-
 
 ---
 
@@ -80,7 +72,23 @@ React Router DOM – Page navigation
 Chart.js – Interactive charts & graphs
 
 Bootstrap – Styling & layout
+---
 
+
+## 📸 Previews
+
+### Main Dashboard
+![Dashboard Preview](./src/photos/dashboard-preview.png)
+
+### Research Analytics
+![Dashboard 2 Preview](./src/photos/dashboard_2.png)
+
+### Track & Insights
+![Analytics Preview](./src/photos/track.png)
+
+### Team Overview
+![Team Preview](./src/photos/team.png)
+---
 
 
 🚀 Future Integration
